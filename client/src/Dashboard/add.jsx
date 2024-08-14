@@ -48,7 +48,8 @@ export default function User() {
         <div className="sm:mx-auto sm:w-full sm:max-w-sm">
          <img src="https://cdn-icons-png.flaticon.com/128/9069/9069049.png"  className="mx-auto h-12 w-auto"/>
           
-          <input type="file" className="mt-10 text-center text-md font-bold leading-9 tracking-tight text-gray-900"/>
+                    <input type="file" className="mt-10 text-center text-md font-bold leading-9 tracking-tight text-gray-900" /><span>Due Time Constriants as exams were clashing i was unable to complete image other all work is done</span>
+
            
         </div>
 
